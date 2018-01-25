@@ -1,0 +1,21 @@
+{
+  "name": "petbuild",
+  "version": "1.0.0",
+  "description": "PetShelterAPI",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Tong Wang",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.1",
+    "mongolass": "^4.1.3",
+    "mongoose": "^5.0.1",
+    "morgan": "^1.9.0"
+  }
+}
